@@ -1,5 +1,5 @@
-import random
+import module
 
-num = random.randint(5,15)
+num = module.numbers(10)
 
 print(num)
