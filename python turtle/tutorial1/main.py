@@ -1,6 +1,5 @@
 from turtle import *
 
-bgcolor("#a6a6a6")
 color("blue")
 
 #bottom
